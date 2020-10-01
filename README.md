@@ -32,4 +32,4 @@ To do that, click on the folder icon at the bottom of the home page.
 You can also open those files with the help of this app. For now, this all will let you only to open images and audio files. Just select one file and click the three dots (...) at the top right corner. Now press *open* to view the photo or play the audio. To close that, just click the *back* button or touch anywhere.
 You can also delete the files that you received. For that, just select the files that you want to delete. And then click the three dots and click *delete*. After that click back button to see the changes.
 
-If this app is useful for you, dont forget to share this app to your friends and neighbours. Use this link to share this app [ishare-1.2.apk](https://github.com/Rajesh-JP/I-Share-Guide/releases/download/I-Share-v1.2/ishare-v1.2.apk).
+If this app is useful for you, dont forget to share this app to your friends and neighbours. Use this link to share or download this app [ishare-1.2.apk](https://github.com/Rajesh-JP/I-Share-Guide/releases/download/I-Share-v1.2/ishare-v1.2.apk).
