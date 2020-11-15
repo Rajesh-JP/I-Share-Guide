@@ -1,7 +1,7 @@
 # Welcome you to this guide for I-Share.
-    Lets learn how to use the **I-Share**.
+  Lets learn how to use the **I-Share**.
 ## Send
-    Do you want to send files from your device to any nearby device? This **I-Share** is one of the best way to get it done.
+  Do you want to send files from your device to any nearby device? This **I-Share** is one of the best way to get it done.
 Just follow the steps below,
 1. Turn on the wifi hotspot in your device.
 2. Touch the **send** button in the home page.
@@ -13,7 +13,7 @@ Just follow the steps below,
 That's it. All the files that you selected will be transfered to the receiver's device with a maximum speed.
 
 ## Receive
-    Do you want to receive files from any nearby device to your device? This **I-Share** is one of the best way to get it done.
+  Do you want to receive files from any nearby device to your device? This **I-Share** is one of the best way to get it done.
 Just follow the steps below,
 1. Connect your wifi to the sender's hotspot.
 2. Touch the **Recieve** button in the home page.
@@ -25,7 +25,7 @@ Just follow the steps below,
 That's it. All the files that sender selected will be transfered to your device with a maximum speed.
 
 ## Received fies
-   This app will create a folder named *I-Share* in your device's internal storage.
+  This app will create a folder named *I-Share* in your device's internal storage.
 All the files that you receive from any device will be stored in that folder.
 You can also access those files from this app.
 To do that, click on the folder icon at the bottom of the home page.
